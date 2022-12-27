@@ -4,10 +4,10 @@ date: 2022-12-27T12:34:47+01:00
 draft: false
 categories: 
 - Backen
+- Posts
 
 ---
 
-## Zimtsterne
 
 *Kanthaus-approved, siehe auch [hier](https://kanthaus.online/de/blog/2018-12-21_vegan-cinnamon-stars)*
 
@@ -31,3 +31,6 @@ Den Teig zwischen zwei Lagen Frischhaltefolie ca. 0,5 – 1 cm dick ausrollen un
  
 Den Ofen auf 130 °C vorheizen. Die Zimtsterne nun mit dem Guss bestreichen. Da dieser sehr zähflüssig ist, geht das mit einem Teelöffel am besten. 
 Im vorgeheizten Ofen etwa 20 Minuten backen. Beim Herausnehmen müssen die Sterne noch etwas weich sein.
+
+
+
