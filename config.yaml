@@ -1,10 +1,10 @@
 defaultContentLanguage: "de"
-title: 'Elfriede'
+title: 'lisemen'
 theme: 'hugo-papermod'
 
 params:
     homeInfoParams:
-        Title: Hallöchen
+        Title: "🦔 Hallöchen"
         Content: Hier gibt es Rezepte und so...
         
     DateFormat: "2. January 2006"
