@@ -8,7 +8,7 @@ tags:
 
 Diese schicken Spiralen gehören zu meinen Klassikern der Weihnachtszeit. Sie schmecken zwar nicht nach Zimt oder Anis und sehen auch nicht besonders besinnlich aus, schmecken aber tausendmal besser als langweilige Ausstechplätzchen aus Mürbeteig! Nicht ohne Grund haben sie es auch schonmal auf's Hochzeitsbuffet einer guten Freundin geschafft. Im Sommer ;) 
 
-![Schwarzweiß-Keks](schwarzweiss1.jpg)
+![Schwarzweiß-Keks](/posts/2022/schwarzweiss/schwarzweiss1.jpg)
 
 
 *Zutaten für ca. 3 Bleche*
