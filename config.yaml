@@ -1,0 +1,35 @@
+defaultContentLanguage: "de"
+title: 'Elfriede'
+theme: 'hugo-papermod'
+
+params:
+    homeInfoParams:
+        Title: Hallöchen
+        Content: Hier gibt es Rezepte und so...
+        
+    DateFormat: "2. January 2006"
+    defaultTheme: light
+    ShowBreadCrumbs: false
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary
+
+menu:
+  main:
+
+#    - identifier: example
+#      name: example.org
+#      url: https://example.org
+#      weight: 30
+    - name: Archiv
+      url: archive/
+      weight: 5
+    - name: Suche
+      url: search/
+      weight: 15
+    - name: Tags
+      url: tags/
+      weight: 10

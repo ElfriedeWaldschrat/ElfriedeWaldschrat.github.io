@@ -3,7 +3,7 @@ languageCode = 'de-DE'
 languageName = 'Deutsch'
 defaultContentLanguage = "de"
 title = 'Elfriede'
-theme = 'loveit'
+theme = 'hugo-papermod'
 
 [author]
   name = "Elfriede"

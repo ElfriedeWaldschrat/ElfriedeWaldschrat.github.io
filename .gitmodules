@@ -7,3 +7,6 @@
 [submodule "themes/arabica"]
 	path = themes/arabica
 	url = https://github.com/nirocfz/arabica.git
+[submodule "themes/hugo-papermod"]
+	path = themes/hugo-papermod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
