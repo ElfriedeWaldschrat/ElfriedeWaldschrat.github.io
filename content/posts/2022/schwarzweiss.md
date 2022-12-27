@@ -1,5 +1,5 @@
 ---
-title: "Schwarzweisskekse"
+title: "Schwarzweiß-Kekse"
 date: 2022-12-27T17:42:42+01:00
 draft: false
 tags:
