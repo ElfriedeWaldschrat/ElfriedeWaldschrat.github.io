@@ -1,0 +1,95 @@
+baseURL = 'http://example.org/'
+languageCode = 'de-DE'
+languageName = 'Deutsch'
+defaultContentLanguage = "de"
+title = 'Elfriede'
+theme = 'loveit'
+
+[author]
+  name = "Elfriede"
+  email = ""
+  link = ""
+
+[menu]
+[[menu.main]]
+    weight = 1
+    identifier = "posts"
+    # you can add extra information before the name (HTML format is supported), such as icons
+    pre = ""
+    # you can add extra information after the name (HTML format is supported), such as icons
+    post = ""
+    name = "Posts"
+    url = "/posts/"
+    # title will be shown when you hover on this menu link
+    title = ""
+[[menu.main]]
+    weight = 2
+    identifier = "categories"
+    pre = ""
+    post = ""
+    name = "Categories"
+    url = "/categories/"
+    title = ""
+
+[params.header.title]
+    # URL of the LOGO
+    logo = ""
+    # title name
+    name = "Elfriedes Seite"
+    # you can add extra information before the name (HTML format is supported), such as icons
+    pre = ""
+    # you can add extra information after the name (HTML format is supported), such as icons
+    post = ""
+
+[params.page.share]
+    enable = false
+    Twitter = true
+    Facebook = true
+    Linkedin = false
+    Whatsapp = true
+    Line = false
+    HackerNews = false
+    Weibo = false
+
+[params.footer]
+    enable = true
+    # Custom content (HTML format is supported)
+    custom = ""
+    # whether to show Hugo and theme info
+    hugo = true
+    # whether to show copyright info
+    copyright = true
+    # whether to show the author
+    author = true
+
+[params.home.profile]
+    enable = false
+    # Gravatar Email for preferred avatar in home page
+    gravatarEmail = ""
+    # URL of avatar shown in home page
+    avatarURL = ""
+    # title shown in home page (HTML format is supported)
+    title = ""
+    # subtitle shown in home page (HTML format is supported)
+    subtitle = "This is my cool site"
+    # whether to use typeit animation for subtitle
+    typeit = true
+    # whether to show social links
+    social = false
+
+[params.search]
+    enable = true
+    # type of search engine ["lunr", "algolia"]
+    type = "lunr"
+    # max index length of the chunked content
+    contentLength = 400
+    # placeholder of the search bar
+    placeholder = ""
+    # LoveIt NEW | 0.2.1 max number of results length
+    maxResultLength = 10
+    # LoveIt NEW | 0.2.3 snippet length of the result
+    snippetLength = 30
+    # LoveIt NEW | 0.2.1 HTML tag name of the highlight part in results
+    highlightTag = "em"
+    # LoveIt NEW | 0.2.4 whether to use the absolute URL based on the baseURL in search index
+    absoluteURL = false
