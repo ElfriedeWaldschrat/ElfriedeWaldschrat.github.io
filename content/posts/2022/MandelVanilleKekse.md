@@ -1,5 +1,5 @@
 ---
-title: "MandelVanilleKekse"
+title: "Mandel-Vanille-Kekse"
 date: 2022-12-28T19:36:36+01:00
 draft: false
 tags:
