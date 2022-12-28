@@ -28,7 +28,7 @@ h1.post-title {
     transition: 0.5s;
 
 }
-h1.post-title:hover {
+h1.post-title {
     text-decoration-color: rgb(255, 215, 55,1);
     transition: 0.75s
 }
@@ -41,6 +41,12 @@ a:hover {
 }
 a:hover {
     color: rgb(249, 191, 32);
+}
+#menu .active {
+    border-color: rgb(249, 191, 32);
+}
+.dark #menu .active {
+    border-color: rgb(255, 201, 53);
 }
 
 ::selection {
