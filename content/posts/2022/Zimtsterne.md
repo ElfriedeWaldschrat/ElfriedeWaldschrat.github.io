@@ -10,17 +10,19 @@ tags:
 ---
 
 
-*Kanthaus-approved, siehe auch [hier](https://kanthaus.online/de/blog/2018-12-21_vegan-cinnamon-stars)*
+Baiser kann doch nicht vegan sein? Denkste! Die Wunderwaffe sind Kichererbsen. Ganz genau, richtig gehört. Erstmals erprobt und gefeiert im [Kanthaus-Blog](https://kanthaus.online/de/blog/2018-12-21_vegan-cinnamon-stars).
 
-*Zutaten für ca. 5 Bleche* 
-
+### Zutaten (für ca. 5 Bleche)
+---
 * 120 ml Kichererbsen-Wasser (Menge aus ~ 1 Glas)
 * 0,5 TL Backpulver
 * 250g Puderzucker
 * 1 Pck. Vanillezucker
 * 2 TL Zimt, gehäuft
 * 800 g Mandeln, gemahlen (oder halb-halb mit Haselnuss)
+---
 
+### Zubereitung
 
  Für den „falschen Eischnee“ das Kichererbsenwasser in eine Schüssel geben und das Backpulver hinzufügen. Mit dem Handmixer auf höchster Stufe für 2 – 3 Minuten schlagen, bis sich deutliche Spuren in der Masse abzeichnen, die nicht mehr verlaufen.
   

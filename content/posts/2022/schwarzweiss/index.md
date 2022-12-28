@@ -6,19 +6,24 @@ tags:
 - Backen
 ---
 
-Diese schicken Spiralen gehören zu meinen Klassikern der Weihnachtszeit. Sie schmecken zwar nicht nach Zimt oder Anis und sehen auch nicht besonders besinnlich aus, schmecken aber tausendmal besser als langweilige Ausstechplätzchen aus Mürbeteig! Nicht ohne Grund haben sie es auch schonmal auf's Hochzeitsbuffet einer guten Freundin geschafft. Im Sommer ;) 
-
-![Schwarzweiß-Keks](./schwarzweiss1.jpg)
+Diese schicken Spiralen gehören zu meinen Klassikern der Weihnachtszeit. Sie schmecken tausendmal besser als langweilige Ausstechplätzchen aus Mürbeteig! Nicht ohne Grund haben sie es auch schonmal auf's Hochzeitsbuffet einer guten Freundin geschafft - und zwar im Sommer^^
 
 
-*Zutaten für ca. 3 Bleche*
-```
+### Zutaten (für ca. 3 Bleche)
+
+---
+
 * 300 g Alsan 
 * 150 g Zucker
 * 1 Prise Salz
 * 400 g Mehl
 * 30 g Kakaopulver (nur für die Hälfte vom Teig!)
-``` 
+---
+
+
+![Schwarzweiß-Keks](./schwarzweiss1.jpg)
+
+### Zubereitung
 
 
 Zügig zu einem Mürbeteig verkneten, Teig halbieren & Kakaopulver unter einen Teil kneten. Die beiden Teigkugeln 1-2 Std. (oder länger) kühl stellen. 
@@ -27,4 +32,4 @@ Teig kurz etwas weicher kneten. Beide Teigkugeln jeweils zu einer ca. 1cm dicken
 
 Von der Teigrolle Scheiben abschneiden & bei 190°C ca. 10 Min. backen. 
 
-> **Trick**: Einen Teig ausrollen & ein möglichst großes Rechteck ausschneiden. Die Platte mithilfe eines Nudelholzes beiseite legen. Anderen Teig ausrollen, mit Wasser bestreichen & die erste Platte drauf legen. Die kann man dann als "Schablone" nutzen & drumrum schneiden. Zack, exakt gleichgroß und schön eckig!* 
+> **Trick**: Einen Teig ausrollen & ein möglichst großes Rechteck ausschneiden. Die Platte mithilfe eines Nudelholzes beiseite legen. Anderen Teig ausrollen, mit Wasser bestreichen & die erste Platte drauf legen. Die kann man dann als "Schablone" nutzen & drumrum schneiden. Zack, exakt gleichgroß und schön eckig!

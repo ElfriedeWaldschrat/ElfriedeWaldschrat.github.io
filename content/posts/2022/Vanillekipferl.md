@@ -8,9 +8,11 @@ tags:
 
 
 
-*Zucker drin und drumrum, obwohl's auf dem Zahnarzt-Block stand. Wenn der wüsste....* 
+Ein Hoch auf Jules Mama, von der dieses Rezept für zartschmelzende Vanillekipferl stammt. Am Ende bitte nicht mit Puderzucker sparen, sondern den Keksen ein schönes Bad gönnen!  
 
-*Zutaten für ca. 3 Bleche*
+### Zutaten (für ca. 3 Bleche)
+
+---
 
 * 300 g Mehl
 * 100 g Zucker
@@ -18,8 +20,13 @@ tags:
 * 1 TL Backpulver
 * 4 Pck. Vanillezucker (oder 1 Schote)
 * 100 g Mandeln oder Haselnüsse, gemahlen (am besten halb-halb)
+---
 
+
+### Zubereitung 
 Alles verkneten & Kipferl formen. 
 Bei 150°C Umluft ca. 10-15 Min. backen. 
-Die Kipferl müssen noch hell sein. Bitte nicht direkt anfassen, sie sind noch sehr weich. 
+Die Kipferl müssen noch hell sein. 
+
+Bitte nicht direkt anfassen, sie sind noch sehr weich. 
 Erkaltet in Puderzucker wälzen. 
