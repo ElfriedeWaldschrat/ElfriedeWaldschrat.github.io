@@ -4,6 +4,7 @@
 ## Anleitung
 ### Neuer Post
 ```hugo new posts/2022/NamevomRezept```
+! .md am Ende vom Dateinamen nicht vergessen, sonst wirds nicht hochgeladen
 
 ### Neue Vorlage nutzen
 ```hugo new --kind vorlage posts/2022/NamevomRezept```

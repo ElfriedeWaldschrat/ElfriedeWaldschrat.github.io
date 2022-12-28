@@ -5,7 +5,7 @@ draft: false
 tags:
 - Backen
 ---
-Heut ist wohl Tag der mütterlichen Rezepte. Hier von meiner Mama, die es für Spitzbuben benutzt hat. 
+Heut ist wohl Tag der mütterlichen Rezepte. Hier von meiner Mama, die es für Spitzbuben benutzt hat. Diesen marmeladegefüllten Wonneproppen widme ich aber wann anders. Jetzt gibt's eine Abwandlung der klassischen Mürbeteig-Ausstechplätzchen.
 
 ### Zutaten (für ca. 4 Bleche)
 ---
