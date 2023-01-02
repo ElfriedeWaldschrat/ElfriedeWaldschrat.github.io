@@ -3,11 +3,17 @@
 
 ## Anleitung
 ### Neuer Post
-```hugo new posts/2022/NamevomRezept```
+```hugo new posts/2022/NamevomRezept.md```
 ! .md am Ende vom Dateinamen nicht vergessen, sonst wirds nicht hochgeladen
+--> mit der Vorlage default.md 
 
-### Neue Vorlage nutzen
-```hugo new --kind vorlage posts/2022/NamevomRezept```
+### Andere Vorlage nutzen
+```hugo new --kind NameDerVorlage posts/2022/NamevomRezept.md```
+
+### Bild einfügen
+Ordner für den post anlegen (Rechtsklick)
+
+```![Bildtitel](./NameDerBilddatei.jpg)```
 
 ### shortcuts
 
