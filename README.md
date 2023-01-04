@@ -15,6 +15,9 @@ Ordner für den post anlegen (Rechtsklick) & post umbenennen in index.md
 
 ```![Bildtitel](./NameDerBilddatei.jpg)```
 
+**Bild verkleinern**
+```./resize-img.sh <pfad-zum-bild.jpg>```
+
 ### shortcuts
 
 STRG + Umschalt + P: snippet einfügen 
