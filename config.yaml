@@ -1,8 +1,10 @@
 defaultContentLanguage: "de"
 title: 'Lise'
 theme: 'hugo-papermod'
+paginate: 6
 
 params:
+    env: production 
     homeInfoParams:
         Title: "🦔 Hallöchen"
         Content: Hier gibt es Rezepte und so...
@@ -10,6 +12,8 @@ params:
     DateFormat: "2. January 2006"
     defaultTheme: light
     ShowBreadCrumbs: false
+    ShowPostNavLinks: true
+    
 
 outputs:
     home:
