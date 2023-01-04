@@ -21,7 +21,7 @@ Diese schicken Spiralen gehören zu meinen Klassikern der Weihnachtszeit. Sie sc
 ---
 
 
-![Schwarzweiß-Keks](./schwarzweiss1.jpg)
+![Schwarzweiß-Keks](schwarzweiss1.jpg)
 
 ### Zubereitung
 
