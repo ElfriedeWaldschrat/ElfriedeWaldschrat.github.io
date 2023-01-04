@@ -1,7 +1,7 @@
 ---
 title: "Kürbiskernkekse mit Zitrone"
 date: 2023-01-02T17:43:14+01:00
-draft: true
+draft: false
 tags:
 - Backen
 ---
@@ -18,7 +18,7 @@ Dass Österreich neun Bundesländer hat und die Steiermark eins von ihnen ist, w
 * 1 TL Zitronenöl (oder 2 Tropfen Aroma / geriebene Schale 1/2 Zitrone)
 * 2 TL V-Zucker
 ---
-
+![Kürbiskernkeks](./kürbiskeks.jpg)
 ### Zubereitung
 Kürbiskerne mahlen (am besten in einem Häcklser oder mit Pürierstab) und mit den übrigen Zutaten rasch zu einem Mürbeteig verkneten. Teig für 1-2 Stunden kalt stellen. 
 Ausrollen & Ausstechen. 

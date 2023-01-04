@@ -31,7 +31,7 @@ Und keine Sorge, auch dieses Rezept ist vegan - trotz des Hirschhornsalzes ;)
 * 150g Zartbitter-Kuvertüre zum Glasieren
 * Walnüsse, Pistazien, Mandeln, Haselnüsse, Rosinen, Kokosflocken, ...
 ---
-
+![Lebkuchen](./lebkuchen.jpg)
 
 Marzipanrohmasse, Dattelpaste (oder Datteln) in sehr kleine Würfelchen schneiden. Kokosöl schmelzen.
 
