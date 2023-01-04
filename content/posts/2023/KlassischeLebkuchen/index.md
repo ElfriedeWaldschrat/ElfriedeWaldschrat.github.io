@@ -33,6 +33,8 @@ Und keine Sorge, auch dieses Rezept ist vegan - trotz des Hirschhornsalzes ;)
 ---
 ![Lebkuchen](./lebkuchen.JPG)
 
+### Zubereitung
+
 Marzipanrohmasse, Dattelpaste (oder Datteln) in sehr kleine Würfelchen schneiden. Kokosöl schmelzen.
 
 Alle Zutaten zügig mit den Händen verkneten. Nicht zu lange, sonst wird der Teig zäh.

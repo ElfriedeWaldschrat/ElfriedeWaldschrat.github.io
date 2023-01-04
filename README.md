@@ -14,6 +14,7 @@
 Ordner für den post anlegen (Rechtsklick) & post umbenennen in index.md
 
 ```![Bildtitel](./NameDerBilddatei.jpg)```
+--> drauf achten, dass die Dateiendung gleich ist (JPG oder jpg)
 
 **Bild verkleinern**
 ```./resize-img.sh <pfad-zum-bild.jpg>```
