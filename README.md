@@ -11,7 +11,7 @@
 ```hugo new --kind NameDerVorlage posts/2022/NamevomRezept.md```
 
 ### Bild einfügen
-Ordner für den post anlegen (Rechtsklick)
+Ordner für den post anlegen (Rechtsklick) & post umbenennen in index.md
 
 ```![Bildtitel](./NameDerBilddatei.jpg)```
 
